@@ -1,9 +1,9 @@
 +++
-title = "Writings of Duck's Feet"
+title = "Blog"
 sort_by = "date"
 template = "article_list.html"
 page_template = "article.html"
 paginate_by = 2
 +++
 
-Welcome to my quack'in blog, I quack about various stuff, but mostly I'm a demo.
+Welcome to my blog! I mostly write composed stuff here, as I try to keep the small rants and musings on the `posts` page.
