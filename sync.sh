@@ -1,3 +1,3 @@
 #!/bin/sh
 
-rsync -alvr ./public/* omen:~/hdd/apps/swag/config/www/
+zola build && rsync -av --delete ./public/ omen:~/hdd/apps/swag/config/www/
