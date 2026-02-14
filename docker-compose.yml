@@ -3,7 +3,7 @@ services:
     build: .
     volumes:
       # Site source
-      - ./:/site:ro
+      - ./:/site
       # Output directory - mapped to host, symlink this to your www location
       - ./output:/output
     environment:
