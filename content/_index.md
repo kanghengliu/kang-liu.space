@@ -6,7 +6,7 @@ title = "Home"
 
 Hello and welcome to my webspace!
 
-This static site is done with `zola` and the wonderful `Duckquill` md template. Idea is to minimize learning and maintenance for site's upkeeping. All pages are generated directly from MD.
+This static site is done with `zola` and the wonderful `Duckquill` md template. Idea is to minimize learning and maintenance for site's upkeeping. All pages are generated directly from Markdown.
 
 # About Me
 
