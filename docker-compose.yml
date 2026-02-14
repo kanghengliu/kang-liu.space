@@ -1,0 +1,12 @@
+services:
+  zola:
+    build: .
+    volumes:
+      # Site source
+      - ./:/site:ro
+      # Output directory - mapped to host, symlink this to your www location
+      - ./output:/output
+    environment:
+      # Paths to watch (relative to /site)
+      WATCH_PATHS: "content/todos"
+      OUTPUT_DIR: "/output"
