@@ -3,26 +3,13 @@ title = "Home"
 +++
 
 # Kangheng Liu
-<aside>
-{% crt() %}
-```
-    ／l、    
-  （ﾟ､ ｡ ７   
-    l  ~ヽ   
-    じしf_,)ノ
-```
-{% end %}
-<small>Worship the cat lord</small>
-</aside>
 
 Hello and welcome to my webspace!
 
-This is a cozy little space I've created in the vast sea of the Net, in hopes of some peaceful writing/reading for myself;
-I hope you, dear reader, can find even just a <small>teeny tiny</small> bit of comfort here as well!
-<div class="centered">🍀 <small>This is here to push down the next div. Cat too big.</small></div>
+This static site is done with `zola` and the wonderful `Duckquill` md template. Idea is to minimize learning and maintenance for site's upkeeping. All pages are generated directly from MD.
 
 # About Me
 
-My name is Kangheng Liu, or <mark>Kang</mark> for short. I'm a Data Science enthusiast, <abbr title="Original Soundtrack">OST</abbr> lover, Gamer/Modder, **terminal** Linux patient <span class="spoiler">get it? hahah</span>
+My name is Kangheng Liu, or <mark>Kang</mark>. I'm a Data Science enthusiast, <abbr title="Original Soundtrack">OST</abbr> lover, Gamer/Modder, <span class="spoiler">terminal</span> Archlinux patient.
 
-Check out my blogs, posts and portfolios to get to know me better; I regularly post composed experience and knowledge on my projects and adventures!
+Check out my blogs, posts and portfolios down below or via the nav bar.
